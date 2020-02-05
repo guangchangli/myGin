@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce3a4d27-c6ce-41aa-871d-da1fc1c32b3d" name="Default Changelist" comment="" />
+    <list default="true" id="ce3a4d27-c6ce-41aa-871d-da1fc1c32b3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EPPOgx0WsAERlw_.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,23 +18,33 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.13.7/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
     <option name="useGoPathFromSystemEnvironment" value="false" />
   </component>
   <component name="ProjectId" id="1XMy0xKJUCd8ioOovwPARDZltws" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -65,8 +82,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="404" key="GridCell.Tab.0.bottom" timestamp="1580913822929">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="404" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822929" />
+    <state width="1638" height="404" key="GridCell.Tab.0.center" timestamp="1580913822927">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="404" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822927" />
+    <state width="1638" height="404" key="GridCell.Tab.0.left" timestamp="1580913822926">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="404" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822926" />
+    <state width="1638" height="404" key="GridCell.Tab.0.right" timestamp="1580913822929">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="404" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822929" />
   </component>
 </project>

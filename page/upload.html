@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gin upload</title>
+</head>
+<body>
+<form action="http://localhost:8000/gin/upload" method="post" enctype="multipart/form-data">
+    头像：
+    <input type="file" name="file" />
+    <br>
+    <input type="submit" value="提交"/>
+</form>
+<form action="http://localhost:8000/gin/uploads" method="post" enctype="multipart/form-data">
+    头像：
+    <input type="file" name="file" multiple/>
+    <br>
+    <input type="submit" value="提交"/>
+</form>
+</body>
+</html>
