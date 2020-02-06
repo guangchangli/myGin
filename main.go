@@ -77,7 +77,26 @@ func main() {
 			context.String(http.StatusOK, fmt.Sprintf("upload file ok %d files", len(files)))
 		}
 	})
+
+	//router group
+	g1 := r.Group("/g1")
+	{
+		g1.GET("/login", login)
+	}
+	g2 := r.Group("/g2")
+	{
+		g2.POST("/submit",submit)
+	}
+
 	//3.监听端口
 	r.Run(":8000")
 	//r.Run("localhost:8080")
+}
+func login(c *gin.Context){
+	name := c.DefaultQuery("name", "what's your name")
+	c.String(http.StatusOK,fmt.Sprintf("hello %s\n",name))
+}
+func submit(c *gin.Context){
+	name:= c.DefaultQuery("name", "jasmine")
+	c.String(http.StatusOK,fmt.Sprintf("hello %s\n",name))
 }

@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce3a4d27-c6ce-41aa-871d-da1fc1c32b3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EPPOgx0WsAERlw_.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/upload.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
@@ -90,21 +86,25 @@
     <proxy>https://goproxy.cn</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="404" key="GridCell.Tab.0.bottom" timestamp="1580913822929">
+    <state width="1638" height="265" key="GridCell.Tab.0.bottom" timestamp="1580992033705">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="404" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822929" />
-    <state width="1638" height="404" key="GridCell.Tab.0.center" timestamp="1580913822927">
+    <state width="1638" height="265" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580992033705" />
+    <state width="1638" height="404" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1580914461772" />
+    <state width="1638" height="265" key="GridCell.Tab.0.center" timestamp="1580992033704">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="404" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822927" />
-    <state width="1638" height="404" key="GridCell.Tab.0.left" timestamp="1580913822926">
+    <state width="1638" height="265" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580992033704" />
+    <state width="1638" height="404" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1580914461771" />
+    <state width="1638" height="265" key="GridCell.Tab.0.left" timestamp="1580992033703">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="404" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822926" />
-    <state width="1638" height="404" key="GridCell.Tab.0.right" timestamp="1580913822929">
+    <state width="1638" height="265" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580992033703" />
+    <state width="1638" height="404" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1580914461770" />
+    <state width="1638" height="265" key="GridCell.Tab.0.right" timestamp="1580992033705">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="404" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580913822929" />
+    <state width="1638" height="265" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580992033705" />
+    <state width="1638" height="404" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1580914461772" />
   </component>
 </project>
